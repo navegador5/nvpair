@@ -1,0 +1,9 @@
+dist/
+docs/
+BAK/
+INIT/
+TOOLS/
+TEST/
+SHELL/
+WORKDIR/
+node_modules/
